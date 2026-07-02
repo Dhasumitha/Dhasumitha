@@ -1,16 +1,68 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Dhasumitha</h1>
 
-<!--
-**Dhasumitha/Dhasumitha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Aspiring Cybersecurity Engineer | CCNA Learner | Full Stack Web Developer
+</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 Computer Science Engineering Student
+- 🔐 Learning Cybersecurity
+- 🌐 Learning CCNA & Networking
+- 💻 Passionate about Web Development
+- 🐍 Python Programmer
+- 🚀 Interested in Open Source
+
+---
+
+## 🛠️ Skills
+
+### Programming
+- C
+- C++
+- Java
+- Python
+- JavaScript
+
+### Web Development
+- HTML
+- CSS
+- React
+- Node.js
+
+### Networking
+- CCNA
+- Cisco Packet Tracer
+
+### Cybersecurity
+- Kali Linux
+- Wireshark
+- Nmap
+- Burp Suite
+- Metasploit
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Linux
+
+---
+
+## 🚀 Current Goals
+
+- Learn Advanced Networking
+- Master Cybersecurity
+- Build Real Projects
+- Contribute to Open Source
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: Add your profile
+- Email: Add your email
+
+⭐ Thanks for visiting my profile!
